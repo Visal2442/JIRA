@@ -10,8 +10,6 @@
     <h1>hello world</h1>
     <span>I'm cute girl</span>
     <p>I am Chamnan</p>
-
-
     <p>Hello this is branch "chamnan"</p>
 </body>
 </html>
